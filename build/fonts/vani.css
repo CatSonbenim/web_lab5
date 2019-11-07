@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Vani";
+    src: url("756871f756ee24c7029aafdad4cbdc62.eot");
+    /* IE9*/
+    src: url("756871f756ee24c7029aafdad4cbdc62.eot?#iefix") format("embedded-opentype"),
+        /* IE6-IE8 */
+        url("756871f756ee24c7029aafdad4cbdc62.woff2") format("woff2"),
+        /* chrome、firefox */
+        url("756871f756ee24c7029aafdad4cbdc62.woff") format("woff"),
+        /* chrome、firefox */
+        url("756871f756ee24c7029aafdad4cbdc62.ttf") format("truetype"),
+        /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+        url("756871f756ee24c7029aafdad4cbdc62.svg#Vani Bold") format("svg");
+    /* iOS 4.1- */
+    font-weight: 700;
+}
